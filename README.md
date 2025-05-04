@@ -1,4 +1,4 @@
-# Gemini Tools and SDK Examples with Model Context Protocol (MCP)
+# Examples with Model Context Protocol (MCP)
 
 This repository provides examples demonstrating the integration of Gemini models with custom tools, specifically highlighting their interaction within a **Model Context Protocol (MCP)** environment. It also showcases different methods for exposing and consuming these functionalities.
 
